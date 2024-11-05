@@ -1,3 +1,7 @@
+/**
+ * File path: src/app.module.ts
+ */
+
 import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import configuration from './configs/configuration';
